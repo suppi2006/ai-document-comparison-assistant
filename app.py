@@ -17,8 +17,8 @@ st.set_page_config(
 
 st.title("AI Document Comparison Assistant")
 st.write(
-    "Upload two text-based PDF documents to compare them "
-    using Generative AI."
+    "Upload two text-based PDF documents to compare them"
+    "using Generative AI."
 )
 
 file_a = st.file_uploader(
